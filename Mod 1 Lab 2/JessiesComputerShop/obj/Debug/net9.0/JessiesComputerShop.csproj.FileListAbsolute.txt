@@ -1,0 +1,14 @@
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\bin\Debug\net9.0\JessiesComputerShop.exe
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\bin\Debug\net9.0\JessiesComputerShop.deps.json
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\bin\Debug\net9.0\JessiesComputerShop.runtimeconfig.json
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\bin\Debug\net9.0\JessiesComputerShop.dll
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\bin\Debug\net9.0\JessiesComputerShop.pdb
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\obj\Debug\net9.0\JessiesComputerShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\obj\Debug\net9.0\JessiesComputerShop.AssemblyInfoInputs.cache
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\obj\Debug\net9.0\JessiesComputerShop.AssemblyInfo.cs
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\obj\Debug\net9.0\JessiesComputerShop.csproj.CoreCompileInputs.cache
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\obj\Debug\net9.0\JessiesComputerShop.dll
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\obj\Debug\net9.0\refint\JessiesComputerShop.dll
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\obj\Debug\net9.0\JessiesComputerShop.pdb
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\obj\Debug\net9.0\JessiesComputerShop.genruntimeconfig.cache
+D:\VS Code\School\C#\Mod 1 Lab 2\JessiesComputerShop\obj\Debug\net9.0\ref\JessiesComputerShop.dll
