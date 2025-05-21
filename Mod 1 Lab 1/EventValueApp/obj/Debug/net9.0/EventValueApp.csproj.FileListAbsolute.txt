@@ -1,0 +1,14 @@
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\bin\Debug\net9.0\EventValueApp.exe
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\bin\Debug\net9.0\EventValueApp.deps.json
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\bin\Debug\net9.0\EventValueApp.runtimeconfig.json
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\bin\Debug\net9.0\EventValueApp.dll
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\bin\Debug\net9.0\EventValueApp.pdb
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\obj\Debug\net9.0\EventValueApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\obj\Debug\net9.0\EventValueApp.AssemblyInfoInputs.cache
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\obj\Debug\net9.0\EventValueApp.AssemblyInfo.cs
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\obj\Debug\net9.0\EventValueApp.csproj.CoreCompileInputs.cache
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\obj\Debug\net9.0\EventValueApp.dll
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\obj\Debug\net9.0\refint\EventValueApp.dll
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\obj\Debug\net9.0\EventValueApp.pdb
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\obj\Debug\net9.0\EventValueApp.genruntimeconfig.cache
+D:\VS Code\School\C#\Mod 1 Lab 1\EventValueApp\obj\Debug\net9.0\ref\EventValueApp.dll
